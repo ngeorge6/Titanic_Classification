@@ -43,7 +43,7 @@ project_folder
 │   ├── train.csv
 │   └── Output_Titanic.xlsx
 │
-├── Titanic_Classification_Pipeline.ipynb
+├── Titanic_LogReg_Pipeline.ipynb
 └── README.md
 ```
 
